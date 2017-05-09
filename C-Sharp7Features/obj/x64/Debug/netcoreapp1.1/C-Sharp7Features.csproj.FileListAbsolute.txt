@@ -1,0 +1,8 @@
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\bin\x64\Debug\netcoreapp1.1\C-Sharp7Features.deps.json
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\bin\x64\Debug\netcoreapp1.1\C-Sharp7Features.runtimeconfig.json
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\bin\x64\Debug\netcoreapp1.1\C-Sharp7Features.runtimeconfig.dev.json
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\bin\x64\Debug\netcoreapp1.1\C-Sharp7Features.dll
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\bin\x64\Debug\netcoreapp1.1\C-Sharp7Features.pdb
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\obj\x64\Debug\netcoreapp1.1\C-Sharp7Features.AssemblyInfo.cs
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\obj\x64\Debug\netcoreapp1.1\C-Sharp7Features.dll
+C:\Users\matt.aldaco\OneDrive\Projects\TechTalks\C-Sharp7Features\C-Sharp7Features\obj\x64\Debug\netcoreapp1.1\C-Sharp7Features.pdb
